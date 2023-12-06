@@ -20,14 +20,15 @@ Developers: Alex Thompson, Nate Mixon, and Josh Stradford
 Managers: Evan Hack and Caleb Gillispie
 
 ## How to run the program (Windows)
-1) Download the "Windows" release of the program
-2) Open the downloaded file
+1) Go to the Release section of this page
+2) Download "HL7.Family.Tree.Converter.v1.0.Windows.exe" 
 2.1) If Windows states the file is not secure, click "More Info" at the bottom, and click "Run Anyway"
 3) The program is now usable
 
 ## How to run the program (Mac, Linux, etc.)
-1) Download the "Other" release of the program
-2) Ensure you have the latest version of Java installed
-2.1) If Java is not installed, install it here based on your system: [Java Installation Link](https://www.java.com/en/download/manual.jsp)
-3) Open the downloaded file
-4) The program is now usable
+1) Go to the Release section of this page
+2) Download "HL7.Family.Tree.Converter.v1.0.Other.jar" 
+3) Ensure you have the latest version of Java installed
+3.1) If Java is not installed, install it here based on your system: [Java Installation Link](https://www.java.com/en/download/manual.jsp)
+4) Open the downloaded file
+5) The program is now usable
