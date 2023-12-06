@@ -33,4 +33,4 @@ Managers: Evan Hack and Caleb Gillispie
 4) Open the downloaded file
 5) The program is now usable
 
-## [Video Guide](https://www.youtube.com/watch?v=darrJ0l5nAI)
+## [Click Here for the Video Guide](https://www.youtube.com/watch?v=darrJ0l5nAI)
