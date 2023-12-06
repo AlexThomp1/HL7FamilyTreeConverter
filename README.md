@@ -28,6 +28,6 @@ Managers: Evan Hack and Caleb Gillispie
 ## How to run the program (Mac, Linux, etc.)
 1) Download the "Other" release of the program
 2) Ensure you have the latest version of Java installed
-2.1) If Java is not installed, install it here based on your system: (Java Installation Link)[https://www.java.com/en/download/manual.jsp]
+2.1) If Java is not installed, install it here based on your system: [Java Installation Link](https://www.java.com/en/download/manual.jsp)
 3) Open the downloaded file
 4) The program is now usable
