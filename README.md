@@ -32,3 +32,5 @@ Managers: Evan Hack and Caleb Gillispie
 3.1) If Java is not installed, install it here based on your system: [Java Installation Link](https://www.java.com/en/download/manual.jsp)
 4) Open the downloaded file
 5) The program is now usable
+
+## [Video Guide](https://www.youtube.com/watch?v=darrJ0l5nAI)
