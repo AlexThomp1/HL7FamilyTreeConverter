@@ -1,4 +1,4 @@
-# HL7FamilyTreeConverter
+# HL7 Family Tree Converter
 
 **This program was made during a team project for CSCI 495 System Analysis & Software Design in the 2023 Fall semester.**
 
